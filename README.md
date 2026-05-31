@@ -4,7 +4,7 @@
 
 📍 Based in Los Angeles, CA — not open to relocation
 
-🎮 Fun facts about me: I'm a longtime gaming enthusiast with a particular appreciation for classic titles and retro gaming. I enjoy learning new technologies, hiking, horror movies, anime, 90s & 20000s sitcoms, exploring data challenges, and finding creative ways to turn complex information into clear insights.
+🎮 Fun facts about me: I'm a longtime gaming enthusiast with a particular appreciation for classic titles and retro gaming. I enjoy learning new technologies, hiking, horror movies, anime, 90s & 2000s sitcoms, exploring data challenges, and finding creative ways to turn complex information into clear insights.
 
 🤝 I'm interested in participating in outsourcing and freelance projects where I can contribute my analytical skills, gain real-world experience, and help organizations make better use of their data.
 
