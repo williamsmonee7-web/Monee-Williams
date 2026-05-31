@@ -7,7 +7,7 @@
 🤝 I'm interested in participating in outsourcing and freelance projects where I can contribute my analytical skills, gain real-world experience, and help organizations make better use of their data.
 
 💻 Primary Skills:
-• Python
+Python
 • SQL
 • Microsoft Excel / Google Sheets
 • Data Cleaning & Transformation
