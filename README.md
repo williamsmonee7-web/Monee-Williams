@@ -2,6 +2,8 @@
 
 👋 Hi, I'm Monee W. Williams, an aspiring Data Analyst with a strong foundation in Python, SQL, advanced spreadsheets, and data visualization. I enjoy working with data to uncover trends, solve problems, and support data-driven decision-making. Through personal projects and continuous learning, I've developed experience in data cleaning, analysis, reporting, and dashboard creation.
 
+📍 Based in Los Angeles, CA — not open to relocation
+
 🎮 Fun facts about me: I'm a longtime gaming enthusiast with a particular appreciation for classic titles and retro gaming. I enjoy learning new technologies, hiking, horror movies, anime, 90s & 20000s sitcoms, exploring data challenges, and finding creative ways to turn complex information into clear insights.
 
 🤝 I'm interested in participating in outsourcing and freelance projects where I can contribute my analytical skills, gain real-world experience, and help organizations make better use of their data.
@@ -14,6 +16,8 @@ Python
 • Data Visualization
 • Reporting & Dashboard Development
 • Data Analysis & Interpretation
+
+[My Resume](https://docs.google.com/document/d/1SiMfRWNBrxU5k8VOkBnjztqSugoK6gWXfzMl_ZgwV-c/edit?pli=1&tab=t.0)
 
 [My LinkedIn](https://www.linkedin.com/in/monee-w-williams/)
 
