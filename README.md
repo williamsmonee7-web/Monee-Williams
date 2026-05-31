@@ -14,3 +14,11 @@ Python
 • Data Visualization
 • Reporting & Dashboard Development
 • Data Analysis & Interpretation
+
+My LinkedIn: https://www.linkedin.com/in/monee-w-williams/
+
+My Google Sheets Projects: https://drive.google.com/drive/folders/1OAij7P8GoGX4Oj1e3B_0QZ6xOwpAFr0q?usp=share_link
+
+My First Tableau Project: https://public.tableau.com/views/Sprint4ProjectTableau/SubcategoryRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+My First Power BI Porject: https://drive.google.com/drive/folders/1rYkJpHFstA_iFftqYP-PNwgbNnEgXJum?usp=share_link
